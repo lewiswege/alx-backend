@@ -1,1 +1,1 @@
-<h1>Solutions to internationalisation<h1>
+# Solutions to tasks on 0x02. i18n
